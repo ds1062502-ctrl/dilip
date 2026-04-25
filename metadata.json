@@ -1,0 +1,6 @@
+{
+  "name": "Namma-Santhe Ledger",
+  "description": "A simple digital ledger (Khata) for small vendors to manage customer credit and payments offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
